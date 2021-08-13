@@ -6,7 +6,7 @@
 namespace hazedumper {
 constexpr ::std::int64_t timestamp = 1628690913;
 namespace netvars {
-constexpr ::std::ptrdiff_t cs_gamerules_data = 0x0;
+constexpr ::std::pt_gamerules_data = 0x0;
 constexpr ::std::ptrdiff_t m_ArmorValue = 0xB37C;
 constexpr ::std::ptrdiff_t m_Collision = 0x320;
 constexpr ::std::ptrdiff_t m_CollisionGroup = 0x474;
